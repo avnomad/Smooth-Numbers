@@ -2,3 +2,7 @@ syntax: regexp
 Debug/*
 Release/*
 ipch/*
+syntax: glob
+Smooth Numbers.opensdf
+Smooth Numbers.sdf
+Smooth Numbers.suo
